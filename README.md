@@ -8,16 +8,11 @@ This is a simple Canvas-based game that requires a solid understanding of the pr
 
 ## Video Walkthrough
 
-[//]: # Here's a walkthrough of implemented user stories.
-
-[//]: # ![](http://g.recordit.co/cURdPMSHT2.gif)
+[//]: # (Here's a walkthrough of implemented user stories.)
 
 ## Code Reviews
 
-[//]: # This code was reviewed by @username and @otherusername. 
-
-[//]: # * [Link to PR #X](#) - reviewed by @username.
-[//]: # * [Link to PR #Y](#) - reviewed by @otherusername.   
+[//]: # (This code was reviewed by @username and @otherusername.) 
 
 
 ## Required User Stories
@@ -44,15 +39,15 @@ This is a simple Canvas-based game that requires a solid understanding of the pr
 - [ ] The user can see their high score. 
 
 
-[//]: # The following **additional** features are implemented:
+[//]: # (The following **additional** features are implemented:)
 
-[//]: # * [x] List anything else that you can get done to improve the page!
+[//]: # (* [x] List anything else that you can get done to improve the page!)
 
 ## Time Spent and Lessons Learned
 
 Time spent: **18** hours spent in total.
 
-[//]: # Describe any challenges encountered while building the app.
+[//]: (# Describe any challenges encountered while building the app.)
 
 ## License
 
